@@ -1,4 +1,6 @@
 # password-generator-codsoft
+ https://vighneshjagtap17.github.io/password-generator-codsoft/
+
 # 🔐 Password Generator - GUI (Task 3)
 
 This project is part of my internship with **CodSoft**. It is a **Password Generator GUI application** built using Python and Tkinter. The app allows users to generate strong, random passwords by specifying the desired length.
